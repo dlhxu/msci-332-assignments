@@ -1,0 +1,4 @@
+restaurant_size,max_tables,max_width,max_height
+small,8,15,15
+medium,16,30,30
+large,24,45,45
