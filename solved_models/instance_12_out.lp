@@ -134,17 +134,17 @@ Subject To
  R119: - 25 f_0 - 25 f_1 - 25 f_2 - 16 f_3 - 36 f_4 - 30 f_5 - g1surplus
    + g1slack = -250
  R120: 12 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 16 f_4 + 12 f_5 - g2surplus
-   + g2slack = 100
+   + g2slack = 36
  R121: 12 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 16 f_4 + 12 f_5 - g2surplus
-   + g2slack = 100
+   + g2slack = 36
  R122: 12 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 16 f_4 + 12 f_5 - g2surplus
-   + g2slack = 100
+   + g2slack = 36
  R123: 12 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 16 f_4 + 12 f_5 - g2surplus
-   + g2slack = 100
+   + g2slack = 36
  R124: 12 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 16 f_4 + 12 f_5 - g2surplus
-   + g2slack = 100
+   + g2slack = 36
  R125: 12 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 16 f_4 + 12 f_5 - g2surplus
-   + g2slack = 100
+   + g2slack = 36
  R126: - f_0 - f_1 + g_01 >= -1
  R127: - f_0 - f_2 + g_02 >= -1
  R128: - f_0 - f_3 + g_03 >= -1

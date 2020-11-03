@@ -96,15 +96,15 @@ Subject To
  R84: - 25 f_0 - 25 f_1 - 25 f_2 - 42 f_3 - 25 f_4 - g1surplus + g1slack
    = -124
  R85: 12 f_0 + 12 f_1 + 12 f_2 + 20 f_3 + 12 f_4 - g2surplus + g2slack
-   = 100
+   = 34
  R86: 12 f_0 + 12 f_1 + 12 f_2 + 20 f_3 + 12 f_4 - g2surplus + g2slack
-   = 100
+   = 34
  R87: 12 f_0 + 12 f_1 + 12 f_2 + 20 f_3 + 12 f_4 - g2surplus + g2slack
-   = 100
+   = 34
  R88: 12 f_0 + 12 f_1 + 12 f_2 + 20 f_3 + 12 f_4 - g2surplus + g2slack
-   = 100
+   = 34
  R89: 12 f_0 + 12 f_1 + 12 f_2 + 20 f_3 + 12 f_4 - g2surplus + g2slack
-   = 100
+   = 34
  R90: - f_0 - f_1 + g_01 >= -1
  R91: - f_0 - f_2 + g_02 >= -1
  R92: - f_0 - f_3 + g_03 >= -1

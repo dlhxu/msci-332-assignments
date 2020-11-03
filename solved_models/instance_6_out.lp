@@ -60,10 +60,10 @@ Subject To
  R53: - 25 f_0 - 25 f_1 - 16 f_2 - 35 f_3 - g1surplus + g1slack = -218
  R54: - 25 f_0 - 25 f_1 - 16 f_2 - 35 f_3 - g1surplus + g1slack = -218
  R55: - 25 f_0 - 25 f_1 - 16 f_2 - 35 f_3 - g1surplus + g1slack = -218
- R56: 12 f_0 + 12 f_1 + 8 f_2 + 12 f_3 - g2surplus + g2slack = 100
- R57: 12 f_0 + 12 f_1 + 8 f_2 + 12 f_3 - g2surplus + g2slack = 100
- R58: 12 f_0 + 12 f_1 + 8 f_2 + 12 f_3 - g2surplus + g2slack = 100
- R59: 12 f_0 + 12 f_1 + 8 f_2 + 12 f_3 - g2surplus + g2slack = 100
+ R56: 12 f_0 + 12 f_1 + 8 f_2 + 12 f_3 - g2surplus + g2slack = 22
+ R57: 12 f_0 + 12 f_1 + 8 f_2 + 12 f_3 - g2surplus + g2slack = 22
+ R58: 12 f_0 + 12 f_1 + 8 f_2 + 12 f_3 - g2surplus + g2slack = 22
+ R59: 12 f_0 + 12 f_1 + 8 f_2 + 12 f_3 - g2surplus + g2slack = 22
  R60: - f_0 - f_1 + g_01 >= -1
  R61: - f_0 - f_2 + g_02 >= -1
  R62: - f_0 - f_3 + g_03 >= -1

@@ -228,21 +228,21 @@ Subject To
  R207: - 16 f_0 - 25 f_1 - 42 f_2 - 16 f_3 - 25 f_4 - 25 f_5 - 16 f_6
    - 16 f_7 - g1surplus + g1slack = -864
  R208: 8 f_0 + 12 f_1 + 20 f_2 + 8 f_3 + 12 f_4 + 12 f_5 + 8 f_6 + 8 f_7
-   - g2surplus + g2slack = 100
+   - g2surplus + g2slack = 44
  R209: 8 f_0 + 12 f_1 + 20 f_2 + 8 f_3 + 12 f_4 + 12 f_5 + 8 f_6 + 8 f_7
-   - g2surplus + g2slack = 100
+   - g2surplus + g2slack = 44
  R210: 8 f_0 + 12 f_1 + 20 f_2 + 8 f_3 + 12 f_4 + 12 f_5 + 8 f_6 + 8 f_7
-   - g2surplus + g2slack = 100
+   - g2surplus + g2slack = 44
  R211: 8 f_0 + 12 f_1 + 20 f_2 + 8 f_3 + 12 f_4 + 12 f_5 + 8 f_6 + 8 f_7
-   - g2surplus + g2slack = 100
+   - g2surplus + g2slack = 44
  R212: 8 f_0 + 12 f_1 + 20 f_2 + 8 f_3 + 12 f_4 + 12 f_5 + 8 f_6 + 8 f_7
-   - g2surplus + g2slack = 100
+   - g2surplus + g2slack = 44
  R213: 8 f_0 + 12 f_1 + 20 f_2 + 8 f_3 + 12 f_4 + 12 f_5 + 8 f_6 + 8 f_7
-   - g2surplus + g2slack = 100
+   - g2surplus + g2slack = 44
  R214: 8 f_0 + 12 f_1 + 20 f_2 + 8 f_3 + 12 f_4 + 12 f_5 + 8 f_6 + 8 f_7
-   - g2surplus + g2slack = 100
+   - g2surplus + g2slack = 44
  R215: 8 f_0 + 12 f_1 + 20 f_2 + 8 f_3 + 12 f_4 + 12 f_5 + 8 f_6 + 8 f_7
-   - g2surplus + g2slack = 100
+   - g2surplus + g2slack = 44
  R216: - f_0 - f_1 + g_01 >= -1
  R217: - f_0 - f_2 + g_02 >= -1
  R218: - f_0 - f_3 + g_03 >= -1

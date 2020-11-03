@@ -417,27 +417,27 @@ Subject To
  R384: - 25 f_0 - 16 f_1 - 25 f_2 - 25 f_3 - 49 f_4 - 16 f_5 - 35 f_6
    - 16 f_7 - 16 f_8 - 25 f_9 - 25 f_10 - g1surplus + g1slack = -786
  R385: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R386: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R387: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R388: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R389: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R390: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R391: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R392: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R393: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R394: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R395: 12 f_0 + 8 f_1 + 12 f_2 + 12 f_3 + 20 f_4 + 8 f_5 + 12 f_6 + 8 f_7
-   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 100
+   + 8 f_8 + 12 f_9 + 12 f_10 - g2surplus + g2slack = 62
  R396: - f_0 - f_1 + g_01 >= -1
  R397: - f_0 - f_2 + g_02 >= -1
  R398: - f_0 - f_3 + g_03 >= -1

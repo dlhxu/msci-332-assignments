@@ -95,11 +95,11 @@ Subject To
    = -175
  R84: - 30 f_0 - 25 f_1 - 30 f_2 - 16 f_3 - 16 f_4 - g1surplus + g1slack
    = -175
- R85: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 100
- R86: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 100
- R87: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 100
- R88: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 100
- R89: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 100
+ R85: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 28
+ R86: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 28
+ R87: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 28
+ R88: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 28
+ R89: 16 f_0 + 12 f_1 + 12 f_2 + 8 f_3 + 8 f_4 - g2surplus + g2slack = 28
  R90: - f_0 - f_1 + g_01 >= -1
  R91: - f_0 - f_2 + g_02 >= -1
  R92: - f_0 - f_3 + g_03 >= -1

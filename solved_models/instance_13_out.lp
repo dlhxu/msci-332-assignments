@@ -505,29 +505,29 @@ Subject To
    - 35 f_7 - 30 f_8 - 42 f_9 - 16 f_10 - 42 f_11 - g1surplus + g1slack
    = -855
  R456: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R457: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R458: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R459: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R460: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R461: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R462: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R463: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R464: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R465: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R466: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R467: 12 f_0 + 20 f_1 + 8 f_2 + 12 f_3 + 8 f_4 + 12 f_5 + 16 f_6 + 20 f_7
-   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 100
+   + 16 f_8 + 20 f_9 + 8 f_10 + 16 f_11 - g2surplus + g2slack = 84
  R468: - f_0 - f_1 + g_01 >= -1
  R469: - f_0 - f_2 + g_02 >= -1
  R470: - f_0 - f_3 + g_03 >= -1
