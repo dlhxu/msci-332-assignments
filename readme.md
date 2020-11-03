@@ -1,21 +1,21 @@
-# How to run Instance Generator
+# Part 1: How to run Instance Generator
 The instance generator used to create randomized instances is provided as a Jupyter notebook named 'Instance Generator'. 
 
 ## Dependencies
 This notebook is dependent on two input files named 'restaurant_data.csv' and 'table_data.csv' which have also been provided.
 
-These two files serve as parameter inputs that will be used to generate instances. Ensure these two files are in the same directory as the 'Instance Generator' notebook.
+These two files serve as parameter inputs that will be used to generate random instances of a desired size range. Ensure these two files are in the same directory as the 'Instance Generator' notebook. 
 
 This notebook saves the created instances as a .json file called 'generated_instances.json'. 
 
-A 'generated_instances.json' file is provided as part of this submission, and can be used to run the solver component of this assignment directly.
+A 'generated_instances.json' file is provided as part of this submission, and is fed into the solver component of this assignment directly.
 
 ## Running
 Execute all cells sequentially (Cell -> Run All) to create a new 'generated_instances.json', otherwise proceed to Model.
 
 
-# How to run Model
-The Model notebook contains the Gurobi code used to solve the instances generated in the previous step. 
+# Part 2: How to run the Model
+The Model notebook contains the Gurobi code used to solve for the instances generated in the previous step. 
 
 ## Dependencies
 This notebook is dependent on two external modules that require installation prior to running (for data and model solution visualization at the end).
