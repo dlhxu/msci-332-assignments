@@ -30,7 +30,7 @@ conda install -c plotly python-kaleido
 ```
 These modules allow us to visualize the solution of the arrangement of tables in the restaurant. 
 
-Ensure that a 'feasible_solutions' folder is present in the same directory as the 'Assignment 3 - Construction Heuristic.ipynb' notebook. 
+Ensure that a 'feasible_solution_visualization' folder is present in the same directory as the 'Assignment 3 - Construction Heuristic.ipynb' notebook. 
 
 There is no functionality to create this folder if it is not present in the directory already, and the code will throw an error when trying to save the solved instance visualizations results at the end if this folder is not present. 
 
