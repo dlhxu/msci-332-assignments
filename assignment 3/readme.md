@@ -1,5 +1,5 @@
 # Part 0: Data 
-For this assignment, we have attempted to extend the instances we generated programmatically during assignment 2. The original instances from assignment 2 are in 'generated_instances.json'. A notebook called 'Assignment 3 - Instances.ipynb' was used to extend and modify a selection of these instances to create more realistic instances for use in the Construction Heuristic. These instances are found in 'new_instances.json'.
+For this assignment, we have attempted to extend the instances we generated programmatically during assignment 2. A notebook called 'Assignment 3 - Instances.ipynb' was used to extend and modify a selection of these instances to create more realistic instances for use in the Construction Heuristic. These instances are found in the same file.
 
 We have also opted to manually create instances based on visual feedback from attempting to solve the generated instances. These manually created instances are meant to further improve upon our efforts to programmatically generate random restaurant instances, and make instance solutions as similar as possible to typical restaurants. 
 
@@ -9,9 +9,9 @@ Due to the difficulty of sourcing reliable restaurant floor plans and dimensiona
 The notebook that contains the construction heuristic algorithm we have used is in Assignment 3 - Construction Heuristic.ipynb
 
 ## Dependencies
-This notebook is dependent on two input files named generated_instances.json and new_instances.json, which have been provided as part of this submission.
+This notebook is dependent on two input files named generated_instances.json, which have been provided as part of this submission.
 
-These two files contain instances that will be solved by the construction heuristic
+This file contains instances that will be solved by the construction heuristic
 
 This notebook saves the solved instances as a .json file called 'feasible_solutions.json'. 
 
@@ -45,10 +45,10 @@ To supply instance data manually, you can modify the 'generated_instances.json' 
 
 
 # Part 2: Simulated Annealing
-(description)
+This notebook contains the simulated annealing algorithm used to generate improved solutions off of the initial solution created by the construction heuristic.
 
 ## Dependencies
-(dependencies)
+This notebook is dependent on the .json file called 'feasible_solutions.json' in order to run properly.
 
 ## Running
-(running)
+By running the notebook, the simulated annealing process will be outlined through logs that can be observed within the notebook itself.
